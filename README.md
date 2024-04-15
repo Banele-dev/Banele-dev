@@ -4,5 +4,5 @@
 <img alt= "my top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banele-dev&layout=compact"/>
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Selenium](https://img.shields.io/badge/Django-3.2-green)
+![Selenium](https://img.shields.io/badge/Selenium-3.2-green)
 ![Flask](https://img.shields.io/badge/Flask-2.0-orange)
