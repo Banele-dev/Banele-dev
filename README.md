@@ -6,4 +6,4 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3.2-green)
 ![Flask](https://img.shields.io/badge/Flask-2.0-orange)
-![Power Automate](https://img.shields.io/badge/Power Automate-3.9-blue)
+![Power Automate](https://img.shields.io/badge/PowerAutomate-3.9-blue)
